@@ -7,7 +7,18 @@ The task was is to obtain shaded segmentation of area of 'big skirt'. Examples a
 <img src="./examples/48366_00.png",  width="256">
 </div>
 
-## Dataset
+## Downloading data
+For downloading dataset and guideline images:
+
+```bash
+./scripts/download_data.sh 
+```
+
+For downloading result images:
+
+```bash
+./scripts/download_results.sh 
+```
 
 ## Algorithm
 
