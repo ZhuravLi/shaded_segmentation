@@ -36,4 +36,4 @@ if __name__ == "__main__":
         im = draw_grey_skirt(file_num, mask)
         
         # Saving result img
-        im.save(f'./imgs/{file_num}__00.png')
+        im.save(f'./imgs/{file_num}_00.png')
