@@ -131,3 +131,4 @@ dmypy.json
 # datasets
 /dataset
 /imgs
+/guidelines_of_first_20_images
